@@ -55,7 +55,7 @@ This project contains 10 Python case studies prepared for the Activity-Based Lea
 
 9\. University Fee and Eligibility Audit
 
-10\. Student Record Consistency Checker
+10\. Integrated Student Record Consistency Checker
 
 
 
